@@ -1,0 +1,113 @@
+@font-face {
+  font-family: "iconfont"; /* Project id  */
+  src: url('iconfont.ttf?t=1622276012230') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-my:before {
+  content: "\e78b";
+}
+
+.icon-home:before {
+  content: "\e620";
+}
+
+.icon-home1:before {
+  content: "\e6b5";
+}
+
+.icon-my1:before {
+  content: "\e640";
+}
+
+.icon-my2:before {
+  content: "\e660";
+}
+
+.icon-home2:before {
+  content: "\e61a";
+}
+
+.icon-Home:before {
+  content: "\e73b";
+}
+
+.icon-home3:before {
+  content: "\e89c";
+}
+
+.icon-bussiness-man:before {
+  content: "\e6ef";
+}
+
+.icon-add-account:before {
+  content: "\e741";
+}
+
+.icon-add-cart:before {
+  content: "\e742";
+}
+
+.icon-all:before {
+  content: "\e743";
+}
+
+.icon-Moneymanagement:before {
+  content: "\e759";
+}
+
+.icon-office-supplies:before {
+  content: "\e75a";
+}
+
+.icon-searchcart:before {
+  content: "\e763";
+}
+
+.icon-supplier-features:before {
+  content: "\e767";
+}
+
+.icon-store:before {
+  content: "\e76f";
+}
+
+.icon-add-account1:before {
+  content: "\e776";
+}
+
+.icon-add-cart-fill:before {
+  content: "\e777";
+}
+
+.icon-all-fill:before {
+  content: "\e778";
+}
+
+.icon-bussiness-man-fill:before {
+  content: "\e779";
+}
+
+.icon-home-fill:before {
+  content: "\e7ae";
+}
+
+.icon-Homehomepagemenu:before {
+  content: "\e9ce";
+}
+
+.icon-Homehomepagemenu1:before {
+  content: "\e9db";
+}
+
+.icon-my3:before {
+  content: "\e626";
+}
+
